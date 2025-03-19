@@ -1,6 +1,6 @@
 ## Olá! Eu Sou o Matheus Lopes
 
-  Bem vindos(a) ao meu github. 
+  Bem vindos(as) ao meu github. 
 
 <div>
   <a href="https://github.com/Matheus-lopes20">
