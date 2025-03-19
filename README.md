@@ -14,7 +14,6 @@
   <img align="center" alt="Matheus-lopes20-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
   
-  ##
   ### Segue abaixo meus contatos e redes sociais 
 <div>
   <a href = "mailto:matheuslopes040504@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_black"></a>
