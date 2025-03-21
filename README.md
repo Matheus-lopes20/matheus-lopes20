@@ -1,6 +1,6 @@
 ## Olá! Eu Sou o Matheus Lopes
 
-  Bem vindos(as) ao meu github. 
+Bem vindos(as) ao meu GitHub!
 
 <div>
   <a href="https://github.com/Matheus-lopes20">
@@ -14,13 +14,11 @@
   <img align="center" alt="Matheus-lopes20-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
   
-  ### Segue abaixo meus contatos e redes sociais 
+### Segue abaixo meus contatos e redes sociais 
 <div>
-  <a href = "mailto:matheuslopes040504@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_black"></a>
-  <a href="https://www.linkedin.com/in/matheus-lopes-05141126a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:matheuslopes040504@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_black"></a>
+  <a href="https://www.linkedin.com/in/matheus-lopes-05141126a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/matheuss_s.l/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="https://wa.me/5577981055868" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">  </a>
+  <a href="https://wa.me/5577981055868" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href=".matheus789" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
 </div>
-  
-
