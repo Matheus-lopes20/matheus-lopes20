@@ -1,11 +1,14 @@
-## Olá! Eu Sou o Matheus Lopes
+# Olá! Eu Sou o Matheus Lopes
 
-Bem vindos(as) ao meu GitHub!
+Bem-vindo(a) ao meu GitHub! 👋
 
 <div>
   <a href="https://github.com/Matheus-lopes20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-lopes20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-lopes20&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-lopes20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Matheus-lopes20">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-lopes20&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
@@ -14,7 +17,7 @@ Bem vindos(as) ao meu GitHub!
   <img align="center" alt="Matheus-lopes20-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Matheus-lopes20-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
+
 ### Segue abaixo meus contatos e redes sociais 
 <div>
   <a href="mailto:matheuslopes040504@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_black"></a>
