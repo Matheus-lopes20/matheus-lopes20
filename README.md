@@ -26,4 +26,3 @@ Bem-vindo(a) ao meu GitHub! 💻📒
   <a href="https://wa.me/5577981055868" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href=".matheus789" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
 </div>
-z
