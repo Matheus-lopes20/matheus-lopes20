@@ -36,8 +36,8 @@ Sou um desenvolvedor formado em **Análise e Desenvolvimento de Sistemas**, apai
 
 - HTML5
 - CSS3
-- JavaScript (básico/intermediário)
-- Python (iniciante)
+- JavaScript (Avançado)
+- Python (Avançado)
 - Git e GitHub
 
 ---
