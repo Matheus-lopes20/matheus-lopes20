@@ -47,7 +47,13 @@ Sou um desenvolvedor formado em **Análise e Desenvolvimento de Sistemas**, apai
 Se quiser bater um papo ou ver mais dos meus projetos, entre em contato:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/matheus-lopes-05141126a/)
-- 📧 matheus.seuemail@gmail.com
+- 📧 matheuslopes040504@gmail.com
+- 📱 77981055868
+
+<a href="https://www.instagram.com/matheuss_s.l/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<a href="matheus_92309" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+
 
 ---
 
