@@ -11,7 +11,7 @@
 
 Sou um desenvolvedor formado em **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e inovação. Estou sempre em busca de novos desafios e oportunidades para crescer como profissional. Tenho foco em aprender e criar projetos com as tecnologias:
 
-> **HTML • CSS • JavaScript • Python** 💻
+> **HTML • CSS • JavaScript • Python • PHP** 💻
 
 ---
 
@@ -39,6 +39,7 @@ Sou um desenvolvedor formado em **Análise e Desenvolvimento de Sistemas**, apai
 - JavaScript (Avançado)
 - Python (Avançado)
 - Git e GitHub
+- PHP
 
 ---
 
