@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Desenvolvedor formado em Análise e Desenvolvimento de Sistemas <br>
-  🚀 Bem-vindo(a) ao meu GitHub!
+  🚀 Bem-vindos(as) ao meu GitHub!
 </p>
 
 ---
